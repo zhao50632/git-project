@@ -14,7 +14,7 @@ public class HelloMavenTest extends FunctionalTestCase {
     
     @Override
     protected String getConfigFile() {
-        return "maven-project.xml";
+        return "git-project.xml";
     }
 
 }
